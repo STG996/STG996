@@ -1,4 +1,9 @@
-## Hi there 👋
+```py
+if True:
+  return True
+else:
+  return True
+```
 
 <!--
 **STG996/STG996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
